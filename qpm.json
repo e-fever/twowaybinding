@@ -1,0 +1,24 @@
+{
+  "name": "net.efever.twowaybinding",
+  "description": "",
+  "author": {
+    "name": "Ben Lau",
+    "email": "xbenlau@gmail.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "git@github.com:e-fever/twowaybinding.git"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+    "net.efever.backpressure@0.0.2",
+    "com.github.benlau.quickflux@1.1.0"
+  ],
+  "license": "APACHE_2_0",
+  "pri_filename": "twowaybinding.pri",
+  "webpage": ""
+}

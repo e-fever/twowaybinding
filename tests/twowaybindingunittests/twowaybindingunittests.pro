@@ -20,6 +20,7 @@ DISTFILES +=     qpm.json     \
     qmltests/tst_Getter.qml \
     qmltests/tst_Form.qml \
     qmltests/tst_TwoWayBinding.qml \
-    qmltests/tst_Form_bind_property.qml
+    qmltests/tst_Form_bind_property.qml \
+    ../../qpm.json
 
 HEADERS +=     tests.h
