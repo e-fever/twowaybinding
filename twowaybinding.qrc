@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TwoWayBinding/qmldir</file>
+        <file>TwoWayBinding/Form.qml</file>
+        <file>TwoWayBinding/Object.qml</file>
+        <file>TwoWayBinding/TwoWayBinding.qml</file>
+        <file>TwoWayBinding/Getter.qml</file>
+    </qresource>
+</RCC>
